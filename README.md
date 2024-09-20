@@ -11,3 +11,5 @@ Apart from book author names, title and subtitle, users can only find your books
 Please correct me by submiting new issues, if Amazon has made any changes.
 
 So, this tool was design to put as many keywords as possible to maximise the utility of the 7 x 50 charactor spaces.
+
+Demo: https://shenzhuxi.github.io/amazon-kdp-keywords/
